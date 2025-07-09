@@ -8,37 +8,37 @@ export const Footer = () => {
                 <View style={styles.footerCard}>
                     <Text style={styles.footerCardTitle}>Seg</Text>
                     <Sun02d width={40} height={40} />
-                    <Text style={styles.footerCardPreview}>19 °C</Text>
+                    <Text style={styles.footerCardPreview}>31 °C</Text>
                 </View>
                 <View style={styles.footerCard}>
-                    <Text style={styles.footerCardTitle}>Seg</Text>
+                    <Text style={styles.footerCardTitle}>ter</Text>
                     <Sun02d width={40} height={40} />
-                    <Text style={styles.footerCardPreview}>19 °C</Text>
+                    <Text style={styles.footerCardPreview}>30 °C</Text>
                 </View>
                 <View style={styles.footerCard}>
-                    <Text style={styles.footerCardTitle}>Seg</Text>
+                    <Text style={styles.footerCardTitle}>qua</Text>
                     <Sun02d width={40} height={40} />
-                    <Text style={styles.footerCardPreview}>19 °C</Text>
+                    <Text style={styles.footerCardPreview}>25 °C</Text>
                 </View>
                 <View style={styles.footerCard}>
-                    <Text style={styles.footerCardTitle}>Seg</Text>
+                    <Text style={styles.footerCardTitle}>qui</Text>
                     <Sun02d width={40} height={40} />
-                    <Text style={styles.footerCardPreview}>19 °C</Text>
+                    <Text style={styles.footerCardPreview}>27 °C</Text>
                 </View>
                 <View style={styles.footerCard}>
-                    <Text style={styles.footerCardTitle}>Seg</Text>
+                    <Text style={styles.footerCardTitle}>sex</Text>
                     <Sun02d width={40} height={40} />
-                    <Text style={styles.footerCardPreview}>19 °C</Text>
+                    <Text style={styles.footerCardPreview}>26 °C</Text>
                 </View>
                 <View style={styles.footerCard}>
-                    <Text style={styles.footerCardTitle}>Seg</Text>
+                    <Text style={styles.footerCardTitle}>sab</Text>
                     <Sun02d width={40} height={40} />
-                    <Text style={styles.footerCardPreview}>19 °C</Text>
+                    <Text style={styles.footerCardPreview}>29 °C</Text>
                 </View>
                 <View style={styles.footerCard}>
-                    <Text style={styles.footerCardTitle}>Seg</Text>
+                    <Text style={styles.footerCardTitle}>dom</Text>
                     <Sun02d width={40} height={40} />
-                    <Text style={styles.footerCardPreview}>19 °C</Text>
+                    <Text style={styles.footerCardPreview}>25 °C</Text>
                 </View>
             </ScrollView>
         </View>
