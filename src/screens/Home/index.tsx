@@ -2,6 +2,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { StyleSheet, View } from 'react-native';
 import { Header } from '../../components/header';
 import { Info } from '../../components/info';
+import { Footer } from '../../components/footer';
 
 export function Home() {
     return (
@@ -10,7 +11,7 @@ export function Home() {
                 <Header />
                 <Info />
             </View>
-            
+            <Footer />
         </LinearGradient>
     );
 }
